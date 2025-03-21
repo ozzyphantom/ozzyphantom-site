@@ -5,7 +5,7 @@ Welcome to the inner workings of my personal site 😎
 
 
 [Astro Theme Details](https://astro.build/themes/details/astro-air-bento/)
-Original Theme by: https://github.com/deventw
+by: https://github.com/deventw
 
 ## License
 

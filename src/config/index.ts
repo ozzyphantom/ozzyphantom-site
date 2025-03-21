@@ -1,9 +1,9 @@
-import { Github, Twitter } from "lucide-react"
+import { Github, Linkedin } from "lucide-react"
 
 export const defaultLanguage: string = "en"
 
 export const common = {
-  domain: "https://astro-air-bento.deven.tw",
+  domain: "https://ozzyphantom.com",
   meta: {
     favicon: "/avatar.jpg",
     url: "https://blog.deven.tw",
@@ -11,14 +11,14 @@ export const common = {
   googleAnalyticsId: "",
   social: [
     {
-      icon: Twitter,
-      label: "X",
-      link: "https://x.com/",
+      icon: Linkedin,
+      label: "Linkedin",
+      link: "https://linkedin.com/in/ozzyphantom",
     },
     {
       icon: Github,
       label: "GitHub",
-      link: "https://github.com/",
+      link: "https://github.com/ozzyphantom",
     },
   ],
   rss: true,
@@ -74,7 +74,7 @@ export const zh = {
 
 export const en = {
   ...common,
-  siteName: "Holo",
+  siteName: "ozzyphantom",
   meta: {
     ...common.meta,
     title: "Holo",
